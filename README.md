@@ -15,5 +15,5 @@
 </p>
 
 <div>
-    <img src="https://github.com/DiogoFeld/LabirintoFila/tree/main/image/CapturarCodigo.PNG style="max-width: 100%;"> 
+    <img src="https://github.com/DiogoFeld/LabirintoFila/tree/main/image/CapturarCodigo.PNG" style="max-width: 100%;"> 
 </div>
